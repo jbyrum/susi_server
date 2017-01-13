@@ -7,5 +7,6 @@
 	"image": "mariobehling/loklak",
 	"env": {
 		"BUILDPACK_URL": "https://github.com/loklak/heroku_buildpack_ant_loklak.git"
-	}
+	},
+	"stack": "heroku-16"
 }
